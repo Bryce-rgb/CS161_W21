@@ -3,16 +3,10 @@
  * ** Author:Bryce Davenport
  * ** Date:01/12/2021
  * ** Description:calculate taxes owed for a car salesman
- * ** Input:
- * ** Output:
+ * ** Input: int, char, double
+ * ** Output:int, char, double
  * *********************************************************************/
-/*********************************************************************
- * ** Function:
- * ** Description:
- * ** Parameters:
- * ** Pre-Conditions:
- * ** Post-Conditions:
- * *********************************************************************/
+
 
 
 #include <iostream>
