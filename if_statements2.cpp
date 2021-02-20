@@ -1,5 +1,11 @@
 #include<iostream>
+/*
+    Author: Bryce Davenport 02/19/2021
+    Description: simple program that uses if statements to return phrases dependant on user input
+    Inputs: char name[50], int mood, char explaination
+    Outputs: phrases
 
+*/
 
 int main(){
     char name[50];
