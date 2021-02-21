@@ -9,7 +9,7 @@
 using namespace std;
 int main(){
 
-    //string appending
+    //string concatenation
     
     string first = "Henry ";
     string middle = "David ";
@@ -19,20 +19,17 @@ int main(){
     
    
    
-    //user input string 
-        //getline() allows us to take string input if there is a space char
+    //user input of a string 
+    //getline() allows us to take string input if there is a space char
+    
     string input;
     cout << "enter a sentence\n";
     getline(cin, input);
-    cout << input;      
+    cout << input << endl;
 
-
-
-
-
-
-
-
+    //first use of .size() to output size of string
+    
+    cout << first << "your sentence was " << input.size() << " letters long!" << endl;
 
 
 
