@@ -1,6 +1,14 @@
 #include <iostream>
 #include <string>
 /*
+    Author: Bryce Davenport 02/22/2021
+    Description: for loop practice, using a for loop to calcuate factorials
+    Inputs: int num 
+    Outputs: int factorial
+
+*/
+
+/*
 int main()
 {
     for (int i = 0; i <= 10; i++)            //prints int i while i <=10, adds 1 to i each time it runs
