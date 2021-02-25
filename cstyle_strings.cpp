@@ -33,13 +33,15 @@ int main()
 
 }
 */
+
+
+
+//getline() function that gets entire line including spaces, str name first then size of array in parameters
 int main()
 {
     char str[100];
     std::cout << "Enter your name: ";
-    std::cin.getline(str,100);           //function that gets entire line including spaces, str name first then size of array in parameters  
+    std::cin.getline(str,100);             
     std::cout << str;
-
-
 
 }
